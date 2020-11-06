@@ -1,0 +1,19 @@
+*** Input matrix ***
+33 44 55 22 32 
+33 44 55 22 32 
+33 44 55 22 32 
+33 44 55 22 32 
+33 44 55 22 32 
+*** MIn row elements ***
+22
+22
+22
+22
+22
+*** Modifed matrix ***
+Avg = 37,000
+yxxyy
+yxxyy
+yxxyy
+yxxyy
+yxxyy
